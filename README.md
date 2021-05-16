@@ -3,7 +3,7 @@
 ## feature
 
 - [x] decode from json string to go struct
-- [] encode from go struct to json string
+- [ ] encode from go struct to json string
 
 ## how to use
 
