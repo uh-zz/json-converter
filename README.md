@@ -1,5 +1,7 @@
 # json-converter
 
+json-converter, is conversion package for json, and is 20 times slower than encoding/json.
+
 ## feature
 
 - [x] decode from json string to go struct
